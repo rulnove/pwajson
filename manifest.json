@@ -1,5 +1,6 @@
 {
   "name": "Hiduppuisi Pdf",
+  "version": "1.0.0",
   "short_name": "Hiduppuisi Pdf",
   "start_url": "https://pdf.hiduppuisi.com/",
   "display": "standalone",
@@ -9,7 +10,8 @@
   "scope": "/",
   "start_url": "/",
   "description": "Hiduppuisi adalah tempat kumpulan quotes, kata bijak dan motivasi",
-  "orientation": "inputekno",
+  "author": "mhmdsahrudin",
+  "orientation": "any",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-Y5-sKE3lHYo/Xuxd218ZelI/AAAAAAAAA8I/rAkU9VjAHj8Zu3E1XNmb9KnF1t8_SGyrQCK4BGAsYHg/s1600/hiduppuisi.png",
     "sizes": "36x36",
