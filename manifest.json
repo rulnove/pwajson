@@ -1,7 +1,6 @@
 {
   "name": "Hiduppuisi Pdf",
   "version": "1.0.0",
-  "lang": "id"
   "short_name": "Hiduppuisi Pdf",
   "start_url": "https://pdf.hiduppuisi.com/",
   "display": "standalone",
