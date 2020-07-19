@@ -6,7 +6,7 @@
   "display": "standalone",
   "background_color": "#fdd929",
   "theme_color": "#fdd929",
-  "prefer_related_applications": true,
+  "prefer_related_applications": false,
   "scope": "/",
   "description": "Hiduppuisi adalah tempat kumpulan quotes, kata bijak dan motivasi",
   "author": "mhmdsahrudin",
