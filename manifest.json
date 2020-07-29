@@ -1,48 +1,48 @@
 {
-  "name": "Hiduppuisi Pdf",
-  "version": "1.0.0",
-  "short_name": "Hiduppuisi Pdf",
-  "start_url": "https://pdf.hiduppuisi.com/",
-  "display": "standalone",
-  "background_color": "#fdd929",
-  "theme_color": "#fdd929",
-  "prefer_related_applications": false,
-  "scope": "/",
-  "description": "Hiduppuisi adalah tempat kumpulan quotes, kata bijak dan motivasi",
-  "author": "mhmdsahrudin",
-  "orientation": "any",
-  "icons": [{
-    "src": "https://1.bp.blogspot.com/-Y5-sKE3lHYo/Xuxd218ZelI/AAAAAAAAA8I/rAkU9VjAHj8Zu3E1XNmb9KnF1t8_SGyrQCK4BGAsYHg/s1600/hiduppuisi.png",
+ "name": "inpuTekno",
+ "short_name": "inpuTekno",
+ "description": "Tips, Games, Gadget, Media Sosial",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "#fdd929",
+ "start_url": "https://www.inputekno.com/",
+ "background_color": "#fff",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "mhmdsahrudin",
+ "icons": [{
+    "src": "https://1.bp.blogspot.com/-kx41b2ilYBE/XtAVhbye7-I/AAAAAAAAEKA/0-UkmkUMbf4Dr0LhA9ed9yel41Rx1_0TgCK4BGAsYHg/s1600/inputekno.png",
     "sizes": "36x36",
     "type": "image/png",
     "density": "0.75"
   }, {
-    "src": "https://1.bp.blogspot.com/-Y5-sKE3lHYo/Xuxd218ZelI/AAAAAAAAA8I/rAkU9VjAHj8Zu3E1XNmb9KnF1t8_SGyrQCK4BGAsYHg/s1600/hiduppuisi.png",
+    "src": "https://1.bp.blogspot.com/-kx41b2ilYBE/XtAVhbye7-I/AAAAAAAAEKA/0-UkmkUMbf4Dr0LhA9ed9yel41Rx1_0TgCK4BGAsYHg/s1600/inputekno.png",
     "sizes": "48x48",
     "type": "image/png",
     "density": "1.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-Y5-sKE3lHYo/Xuxd218ZelI/AAAAAAAAA8I/rAkU9VjAHj8Zu3E1XNmb9KnF1t8_SGyrQCK4BGAsYHg/s1600/hiduppuisi.png",
+    "src": "https://1.bp.blogspot.com/-kx41b2ilYBE/XtAVhbye7-I/AAAAAAAAEKA/0-UkmkUMbf4Dr0LhA9ed9yel41Rx1_0TgCK4BGAsYHg/s1600/inputekno.png",
     "sizes": "72x72",
     "type": "image/png",
     "density": "1.5"
   }, {
-    "src": "https://1.bp.blogspot.com/-Y5-sKE3lHYo/Xuxd218ZelI/AAAAAAAAA8I/rAkU9VjAHj8Zu3E1XNmb9KnF1t8_SGyrQCK4BGAsYHg/s1600/hiduppuisi.png",
+    "src": "https://1.bp.blogspot.com/-kx41b2ilYBE/XtAVhbye7-I/AAAAAAAAEKA/0-UkmkUMbf4Dr0LhA9ed9yel41Rx1_0TgCK4BGAsYHg/s1600/inputekno.png",
     "sizes": "96x96",
     "type": "image/png",
     "density": "2.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-Y5-sKE3lHYo/Xuxd218ZelI/AAAAAAAAA8I/rAkU9VjAHj8Zu3E1XNmb9KnF1t8_SGyrQCK4BGAsYHg/s1600/hiduppuisi.png",
+    "src": "https://1.bp.blogspot.com/-kx41b2ilYBE/XtAVhbye7-I/AAAAAAAAEKA/0-UkmkUMbf4Dr0LhA9ed9yel41Rx1_0TgCK4BGAsYHg/s1600/inputekno.png",
     "sizes": "144x144",
     "type": "image/png",
     "density": "3.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-Y5-sKE3lHYo/Xuxd218ZelI/AAAAAAAAA8I/rAkU9VjAHj8Zu3E1XNmb9KnF1t8_SGyrQCK4BGAsYHg/s1600/hiduppuisi.png",
+    "src": "https://1.bp.blogspot.com/-kx41b2ilYBE/XtAVhbye7-I/AAAAAAAAEKA/0-UkmkUMbf4Dr0LhA9ed9yel41Rx1_0TgCK4BGAsYHg/s1600/inputekno.png",
     "sizes": "192x192",
     "type": "image/png",
     "density": "4.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-Y5-sKE3lHYo/Xuxd218ZelI/AAAAAAAAA8I/rAkU9VjAHj8Zu3E1XNmb9KnF1t8_SGyrQCK4BGAsYHg/s1600/hiduppuisi.png",
+    "src": "https://1.bp.blogspot.com/-kx41b2ilYBE/XtAVhbye7-I/AAAAAAAAEKA/0-UkmkUMbf4Dr0LhA9ed9yel41Rx1_0TgCK4BGAsYHg/s1600/inputekno.png",
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
